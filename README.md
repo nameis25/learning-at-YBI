@@ -1,2 +1,2 @@
 # learning-at-YBI
-i am learning at YBI foundation
+I am learning at YBI foundation on Machine Learning
